@@ -55,8 +55,8 @@ db.user.insertMany([
     }
 }
 
-Collection Project
 
+Collection Project
 
 db.project.insertMany([
     {
@@ -109,9 +109,8 @@ db.project.insertMany([
     }
 }
 
+
 Collection Task
-
-
 
 db.task.insertMany([
     {
